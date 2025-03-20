@@ -14,8 +14,10 @@ int main()
 	{
 		printf("%d is odd Number",Num);
 	}
+	
 	printf("\n Enter the month number from (1-12):");
 	scanf("%d",&Month);
+	
 	switch(Month)
 	{
 		case 1:
@@ -65,5 +67,4 @@ int main()
 			printf("%d is invalid Number. Enter the Number between (1-12)",Month);
 	}
 	return 0;
-	
 }
