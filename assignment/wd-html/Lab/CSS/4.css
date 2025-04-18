@@ -1,0 +1,25 @@
+
+#contact-form {
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.form-field {
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+#submit-button {
+    background-color: #49a84d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
